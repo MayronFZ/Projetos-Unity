@@ -1,3 +1,3 @@
 # Projetos-Unity
 
-Tentativa de criar um jogo em 2D
+Tentativa de criar um pequeno jogo em plataforma 2D
